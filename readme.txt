@@ -57,4 +57,8 @@ Notes:
 - Ensure that you keep your encryption key (secret.key) secure. If lost, you will not be able to decrypt your stored passwords.
 
 
+Contributing:
+Feel free to contribute to the project by submitting issues, feature requests, or pull requests.
 
+Scope of improvement:
+Implement advanced password strength requirements, such as checking for common password patterns, and enforcing complexity rules beyond just length and character diversity.
